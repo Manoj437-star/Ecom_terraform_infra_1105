@@ -1,0 +1,1 @@
+rg_name= ["mango-1", "banana-1", "apple-1", "orange-1"]
